@@ -5,7 +5,6 @@ user_pref("browser.toolbars.bookmarks.visibility", "never");
 user_pref("sidebar.visibility", "hide-on-close");
 
 // Пустая стартовая страница и новая вкладка.
-user_pref("browser.startup.page", 0);
 user_pref("browser.startup.homepage", "about:blank");
 user_pref("browser.newtabpage.enabled", false);
 
